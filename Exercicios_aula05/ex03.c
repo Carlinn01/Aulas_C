@@ -1,6 +1,7 @@
 //3. Dadas as medidas de uma sala em metros (comprimento e largura), informe a sua
 //área em metros quadrados.
-#include <stdio.h>;
+#include <stdio.h>
+#include <stdlib.h>
 
 int main() {
 
