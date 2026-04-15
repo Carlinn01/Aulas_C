@@ -29,10 +29,10 @@ int main() {
 
         if (saldoconta >= 0)
         {
-            printf("Saldo positivo");
+            printf("Saldo positivo");   
         }else if (saldoconta < 0)
         {
-            printf("Saldo negativo");
+            printf("Saldo negativo");   
             negativos++;
         }   
 
